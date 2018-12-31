@@ -1,30 +1,29 @@
 ﻿========================================================================
-    控制台应用程序：camera 项目概述
+  Console application: camera project overview
 ========================================================================
 
-应用程序向导已为您创建了此 camera 应用程序。
+The application has been created for you by the AppWizard.
 
-本文件概要介绍组成 camera 应用程序的每个文件的内容。
+This document provides an overview of the contents of each of the files that make up the camera application.
 
 
 camera.vcxproj
-    这是使用应用程序向导生成的 VC++ 项目的主项目文件，其中包含生成该文件的 Visual C++ 的版本信息，以及有关使用应用程序向导选择的平台、配置和项目功能的信息。
+  This is the main project file for a VC++ project generated using the AppWizard, which contains version information for Visual C++ that generated the file, as well as information about the platform, configuration, and project features selected using the AppWizard.
 
 camera.vcxproj.filters
-    这是使用“应用程序向导”生成的 VC++ 项目筛选器文件。它包含有关项目文件与筛选器之间的关联信息。在 IDE 中，通过这种关联，在特定节点下以分组形式显示具有相似扩展名的文件。例如，“.cpp”文件与“源文件”筛选器关联。
+    This is a VC++ project filter file generated using the Application Wizard. It contains information about the association between the project file and the filter. In the IDE, files with similar extensions are displayed in groups under a specific node through this association. For example, a ".cpp" file is associated with the "Source File" filter.
 
 camera.cpp
-    这是主应用程序源文件。
+   This is the main application source file.
 
 /////////////////////////////////////////////////////////////////////////////
-其他标准文件:
+Other standard documents:
 
 StdAfx.h, StdAfx.cpp
-    这些文件用于生成名为 camera.pch 的预编译头 (PCH) 文件和名为 StdAfx.obj 的预编译类型文件。
-
+These files are used to generate a precompiled header (PCH) file called camera.pch and a precompiled type file named StdAfx.obj.
 /////////////////////////////////////////////////////////////////////////////
-其他注释:
+Other notes:
 
-应用程序向导使用“TODO:”注释来指示应添加或自定义的源代码部分。
+The Application Wizard uses the "TODO:" annotation to indicate the source code portion that should be added or customized.
 
 /////////////////////////////////////////////////////////////////////////////
