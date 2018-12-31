@@ -1,0 +1,2 @@
+opencv_createsamples.exe -info  posdata.txt -vec pos.vec -num 17 -w 20 -h 20
+opencv_traincascade.exe -data xml -vec pos.vec -bg negdata.txt -numPos 5 -numNeg 10 -numStages 2 -w 20 -h 20 -minHitRate 0.99 -maxFalseAlarmRate 0.4 -mode ALL

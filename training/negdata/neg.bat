@@ -1,0 +1,1 @@
+dir /b/s/p/w *.jpg >num.txt
