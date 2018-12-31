@@ -1,7 +1,5 @@
-// stdafx.h : ±ê×¼ÏµÍ³°üº¬ÎÄ¼şµÄ°üº¬ÎÄ¼ş£¬
-// »òÊÇ¾­³£Ê¹ÓÃµ«²»³£¸ü¸ÄµÄ
-// ÌØ¶¨ÓÚÏîÄ¿µÄ°üº¬ÎÄ¼ş
-//
+// stdafx.h : The standard system contains the include files for the fileï¼Œ
+
 
 #pragma once
 
@@ -12,4 +10,4 @@
 
 
 
-// TODO:  ÔÚ´Ë´¦ÒıÓÃ³ÌĞòĞèÒªµÄÆäËûÍ·ÎÄ¼ş
+// TODO:  Refer to other header files needed by the program here
